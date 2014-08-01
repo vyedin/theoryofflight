@@ -30,6 +30,8 @@ Tracklist:
 11. *Melrose (Songs that Wouldn't Let Me Sleep)* - feat. Sam Avalon on vocals, Will Healy on keys.
 
 
+Session engineering by Amelia Couture, Eliza Waldman, and Terry Champlin.
+
 Comps by Ben Englert and Eliza Waldman.
 
 Mixed by Jacob Winik at [Tiny Telephone Recording](http://www.tinytelephone.com/) in San Francisco, CA.
@@ -41,7 +43,9 @@ Produced by Nina Vyedin and Terry Champlin.
 
 Music, lyrics, vocals, guitar by Nina Vyedin.
 
-Special thanks to Matt Harvey, Kelsey Forest, and others (full list to come).
+Photography by [Katie De Heras](http://www.katiedeheras.com/) and [Sophi Newman](http://sophinewman.com/).
+
+Special thanks to Matt Harvey, Kelsey Forest, Alanna Okun, and our amazing Kickastarter backers. We couldn't have done it without you.
 
 
 
