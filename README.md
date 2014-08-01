@@ -10,27 +10,27 @@ For high quality downloads or other inquiries please contact nina.vyedin@gmail.c
 Tracklist
 =========
 
-1. *Magic (Patent Pending)* - feat. Will Healy on keys, Jacob Winik on slides and dials.
+1. **Magic (Patent Pending)** - feat. Will Healy on keys, Jacob Winik on slides and dials.
 
-2. *Casting Lines* - feat. Bill Leith on bass, Erik Snow on drums, Sam Avalon on vocals & glockenspiel.
+2. **Casting Lines** - feat. Bill Leith on bass, Erik Snow on drums, Sam Avalon on vocals & glockenspiel.
 
-3. *Young Shadows* - feat. Alex Goldberg on vibes, Bill Leith on bass, Sam Avalon on vocals.
+3. **Young Shadows** - feat. Alex Goldberg on vibes, Bill Leith on bass, Sam Avalon on vocals.
 
-4. *Children of the Times* - feat. Erik Snow on drums, Bill Leith on bass, Will Healy on keys, Chris Connors on electric guitar, Sam Avalon on vocals.
+4. **Children of the Times** - feat. Erik Snow on drums, Bill Leith on bass, Will Healy on keys, Chris Connors on electric guitar, Sam Avalon on vocals.
 
-5. *Theory of Flight* - feat. Ethan Shanley on trumpet, Bill Leith on bass, Will Healy on keys, Sam Avalon on vocals.
+5. **Theory of Flight** - feat. Ethan Shanley on trumpet, Bill Leith on bass, Will Healy on keys, Sam Avalon on vocals.
 
-6. *Sweet Lazarus* - feat. Will Healy on keys, Sam Avalon on vocals.
+6. **Sweet Lazarus** - feat. Will Healy on keys, Sam Avalon on vocals.
 
-7. *Peter Goldberg Gets a Phone Call* - feat. Jacob Winik on slides and dials.
+7. **Peter Goldberg Gets a Phone Call** - feat. Jacob Winik on slides and dials.
 
-8. *Snowbird* - feat. Chris Connors on electric guitar, Sam Avalon on vocals.
+8. **Snowbird** - feat. Chris Connors on electric guitar, Sam Avalon on vocals.
 
-9. *Cradle Song* - feat. Sam Avalon and Zach Sorgen on vocals, Zach Sorgen on keys.
+9. **Cradle Song** - feat. Sam Avalon and Zach Sorgen on vocals, Zach Sorgen on keys.
 
-10. *Homecoming, December 2006 (feat. Jon Fuller)*
+10. **Homecoming, December 2006 (feat. Jon Fuller)**
 
-11. *Melrose (Songs that Wouldn't Let Me Sleep)* - feat. Sam Avalon on vocals, Will Healy on keys.
+11. **Melrose (Songs that Wouldn't Let Me Sleep)** - feat. Sam Avalon on vocals, Will Healy on keys.
 
 
 Production Help
@@ -38,23 +38,23 @@ Production Help
 
 ![](https://raw.githubusercontent.com/kallisto/theoryofflight/master/Photos/8.jpg)
 
-Session engineering by Amelia Couture, Eliza Waldman, and Terry Champlin.
+**Session Engineering** by Amelia Couture, Eliza Waldman, and Terry Champlin.
 
-Comps by Ben Englert and Eliza Waldman.
+**Comps** by Ben Englert and Eliza Waldman.
 
-Mixed by Jacob Winik at [Tiny Telephone Recording](http://www.tinytelephone.com/) in San Francisco, CA.
+**Mixed** by Jacob Winik at [Tiny Telephone Recording](http://www.tinytelephone.com/) in San Francisco, CA.
 
-Mastered by Jason Ward at [Chicago Mastering Service](http://www.chicagomasteringservice.com/) in Chicago, IL.
+**Mastered** by Jason Ward at [Chicago Mastering Service](http://www.chicagomasteringservice.com/) in Chicago, IL.
 
-Produced by Nina Vyedin and Terry Champlin.
+**Produced** by Nina Vyedin and Terry Champlin.
 
----------------
+**Music, lyrics, vocals, guitar** by Nina Vyedin.
 
-Music, lyrics, vocals, guitar by Nina Vyedin.
+**Photography** by [Katie De Heras](http://www.katiedeheras.com/) and [Sophi Newman](http://sophinewman.com/).
 
-Photography by [Katie De Heras](http://www.katiedeheras.com/) and [Sophi Newman](http://sophinewman.com/).
+**Artwork** by [Kristin Stevens](http://www.pinterest.com/aifaustus/my-artwork/).
 
-Special thanks to Matt Harvey, Kelsey Forest, Alanna Okun, and our amazing Kickastarter backers. We couldn't have done it without you.
+**Special Thanks** to Matt Harvey, Kelsey Forest, Alanna Okun, and our amazing Kickastarter backers. We couldn't have done it without you.
 
 ![](https://raw.githubusercontent.com/kallisto/theoryofflight/master/Photos/23.jpg)
 
