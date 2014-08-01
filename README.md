@@ -7,6 +7,8 @@ These are the mp3-quality files of Theory of Flight by the Undergraduates. This 
 
 For high quality downloads or other inquiries please contact nina.vyedin@gmail.com.
 
+Please read the [LICENSE](https://github.com/kallisto/theoryofflight/blob/master/LICENSE.md) for right of use on music and images found in this repository.
+
 Tracklist
 =========
 
