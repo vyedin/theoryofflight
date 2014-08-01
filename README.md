@@ -7,27 +7,27 @@ For high quality downloads or other inquiries please contact nina.vyedin@gmail.c
 
 Tracklist:
 
-1. Magic (Patent Pending) - feat. Will Healy on keys, Jacob Winik on slides and dials.
+1. *Magic (Patent Pending)* - feat. Will Healy on keys, Jacob Winik on slides and dials.
 
-2. Casting Lines - feat. Bill Leith on bass, Erik Snow on drums, Sam Avalon on vocals & glockenspiel.
+2. *Casting Lines* - feat. Bill Leith on bass, Erik Snow on drums, Sam Avalon on vocals & glockenspiel.
 
-3. Young Shadows - feat. Alex Goldberg on vibes, Bill Leith on bass, Sam Avalon on vocals.
+3. *Young Shadows* - feat. Alex Goldberg on vibes, Bill Leith on bass, Sam Avalon on vocals.
 
-4. Children of the Times - feat. Erik Snow on drums, Bill Leith on bass, Will Healy on keys, Chris Connors on electric guitar, Sam Avalon on vocals.
+4. *Children of the Times* - feat. Erik Snow on drums, Bill Leith on bass, Will Healy on keys, Chris Connors on electric guitar, Sam Avalon on vocals.
 
-5. Theory of Flight - feat. Ethan Shanley on trumpet, Bill Leith on bass, Will Healy on keys, Sam Avalon on vocals.
+5. *Theory of Flight* - feat. Ethan Shanley on trumpet, Bill Leith on bass, Will Healy on keys, Sam Avalon on vocals.
 
-6. Sweet Lazarus - feat. Will Healy on keys, Sam Avalon on vocals.
+6. *Sweet Lazarus* - feat. Will Healy on keys, Sam Avalon on vocals.
 
-7. Peter Goldberg Gets a Phone Call - feat. Jacob Winik on slides and dials.
+7. *Peter Goldberg Gets a Phone Call* - feat. Jacob Winik on slides and dials.
 
-8. Snowbird - feat. Chris Connors on electric guitar, Sam Avalon on vocals.
+8. *Snowbird* - feat. Chris Connors on electric guitar, Sam Avalon on vocals.
 
-9. Cradle Song - feat. Sam Avalon and Zach Sorgen on vocals, Zach Sorgen on keys.
+9. *Cradle Song* - feat. Sam Avalon and Zach Sorgen on vocals, Zach Sorgen on keys.
 
-10. Homecoming, December 2006 (feat. Jon Fuller)
+10. *Homecoming, December 2006 (feat. Jon Fuller)*
 
-11. Melrose (Songs that Wouldn't Let Me Sleep) - feat. Sam Avalon on vocals, Will Healy on keys.
+11. *Melrose (Songs that Wouldn't Let Me Sleep)* - feat. Sam Avalon on vocals, Will Healy on keys.
 
 
 Comps by Ben Englert and Eliza Waldman.
@@ -53,4 +53,5 @@ This album is full of contributions from amazing musicians. Please check out the
 * [Eliza & the Organix](http://elizaandtheorganix.bandcamp.com/album/the-organix-experience)
 * [Sam Avalon](http://samavalon.com/)
 * [Will Healy](http://williamhealymusic.com/)
+* [Thirstbusters](http://thirstbusters.net/)
 * [Jacob Winik](http://www.jacobwinik.com/)
