@@ -32,9 +32,9 @@ Tracklist:
 
 Comps by Ben Englert and Eliza Waldman.
 
-Mixed by Jacob Winik at Tiny Telephone in SF.
+Mixed by Jacob Winik at [Tiny Telephone Recording](http://www.tinytelephone.com/) in San Francisco, CA.
 
-Mastered by Jason Ward at Chicago Mastering Service.
+Mastered by Jason Ward at [Chicago Mastering Service](http://www.chicagomasteringservice.com/) in Chicago, IL.
 
 Produced by Nina Vyedin and Terry Champlin.
 
@@ -48,9 +48,9 @@ Special thanks to Matt Harvey, Kelsey Forest, and others (full list to come).
 
 This album is full of contributions from amazing musicians. Please check out their projects:
 
-[Terry Champlin](http://www.terrychamplin.com/)
-[Jon Fuller](http://www.jonfullermusic.com/)
-[Eliza & the Organix](http://elizaandtheorganix.bandcamp.com/album/the-organix-experience)
-[Sam Avalon](http://samavalon.com/)
-[Will Healy](http://williamhealymusic.com/)
-[Jacob Winik](http://www.jacobwinik.com/)
+* [Terry Champlin](http://www.terrychamplin.com/)
+* [Jon Fuller](http://www.jonfullermusic.com/)
+* [Eliza & the Organix](http://elizaandtheorganix.bandcamp.com/album/the-organix-experience)
+* [Sam Avalon](http://samavalon.com/)
+* [Will Healy](http://williamhealymusic.com/)
+* [Jacob Winik](http://www.jacobwinik.com/)
