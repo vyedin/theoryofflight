@@ -3,6 +3,8 @@ Theory of Flight by the Undergraduates
 
 These are the mp3-quality files of Theory of Flight by the Undergraduates. This album is available for free download (please see license). Click "Download Zip" on the right to download the album and drag into iTunes to add to your library.
 
+For high quality downloads or other inquiries please contact nina.vyedin@gmail.com.
+
 Tracklist:
 
 1. Magic (Patent Pending) - feat. Will Healy on keys, Jacob Winik on slides and dials.
@@ -19,7 +21,7 @@ Tracklist:
 
 7. Peter Goldberg Gets a Phone Call - feat. Jacob Winik on slides and dials.
 
-8. Snowbird - feat. Chris Connoer on electric guitar, Sam Avalon on vocals.
+8. Snowbird - feat. Chris Connors on electric guitar, Sam Avalon on vocals.
 
 9. Cradle Song - feat. Sam Avalon and Zach Sorgen on vocals, Zach Sorgen on keys.
 
@@ -44,4 +46,11 @@ Special thanks to Matt Harvey, Kelsey Forest, and others (full list to come).
 
 
 
-Nina
+This album is full of contributions from amazing musicians. Please check out their projects:
+
+[Terry Champlin](http://www.terrychamplin.com/)
+[Jon Fuller](http://www.jonfullermusic.com/)
+[Eliza & the Organix](http://elizaandtheorganix.bandcamp.com/album/the-organix-experience)
+[Sam Avalon](http://samavalon.com/)
+[Will Healy](http://williamhealymusic.com/)
+[Jacob Winik](http://www.jacobwinik.com/)
