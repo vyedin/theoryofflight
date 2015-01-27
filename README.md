@@ -29,7 +29,7 @@ Tracklist
 
 6. **Sweet Lazarus** - feat. Will Healy on keys, Sam Avalon on vocals.
 
-7. **Peter Goldberg Gets a Phone Call** - feat. Jacob Winik on slides and dials.
+7. **Peter Goldmark Gets a Phone Call** - feat. Jacob Winik on slides and dials.
 
 8. **Snowbird** - feat. Chris Connors on electric guitar, Sam Avalon on vocals.
 
