@@ -9,10 +9,10 @@ For high quality downloads or other inquiries please contact nina.vyedin@gmail.c
 
 Please read the [LICENSE](https://github.com/kallisto/theoryofflight/blob/master/LICENSE.md) for right of use on music and images found in this repository.
 
-[Download the Album](https://github.com/kallisto/theoryofflight/archive/master.zip)
+Download the Album
 ===================================================================================
 
-Click link above, unzip the file, and drag contents to iTunes or another music client. Songs will be automatically added to your library.
+The album will be available on iTunes and most streaming services in a few weeks.
 
 Tracklist
 =========
