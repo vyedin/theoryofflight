@@ -3,7 +3,7 @@ Theory of Flight by the Undergraduates
 
 ![](https://raw.githubusercontent.com/kallisto/theoryofflight/master/Photos/1.jpg)
 
-These are the mp3-quality files of Theory of Flight by the Undergraduates. This album is available for free download (please see license).
+These are the mp3-quality files of Theory of Flight by the Undergraduates. Singles from this album are available for free download (please see license).
 
 For high quality downloads or other inquiries please contact nina.vyedin@gmail.com.
 
